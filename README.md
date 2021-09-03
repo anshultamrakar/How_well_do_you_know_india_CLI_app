@@ -1,4 +1,4 @@
-# CLI-App---How-well-do-You-Know-India
+# CLI-App-How-well-do-You-Know-India
 
 Assignment for level Zero done !
 
